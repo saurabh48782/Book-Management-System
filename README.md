@@ -1,5 +1,5 @@
-# Library-Management-System
-A python project to automate tasks in a library. 
+# Book-Management-System
+A python project to automate tasks in a library or an online book store. 
 
 This project was done with a vision to enhance  my understanding and knowledge in Python programming language.
 Using this project we can understand the working in a Library or an Online Book Store and automate tasks that are there.
